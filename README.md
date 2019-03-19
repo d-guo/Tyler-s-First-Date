@@ -1,8 +1,8 @@
 # Tylers-First-Date
-Recreation of the game Crossy Road using Java Swing and AWT.
+Recreation of the mobile game Crossy Road for PC using Java Swing and AWT.
 
 ## Use
-To run game, execute start.bat
+To run game, execute the "start.bat" file.
 
 ## Prerequisites
 Java
